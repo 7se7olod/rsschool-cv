@@ -7,6 +7,14 @@ I am interested in mobile development and front-end development. Developed small
 I aspire to become a front-end developer like my friends. 
 New knowledge is the best thing in the world!
 
+## Skills
+* HTML
+* CSS
+* Swift
+* Git
+* Xcode
+* SOLID, MVC
+
 ## Code example (Swift)
 ```
 
