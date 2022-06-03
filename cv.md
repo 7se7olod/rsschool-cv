@@ -31,6 +31,6 @@ Izhevsk Engineering College
 * 65apps. iOS Development
 * Swiftbook
 
-## English level
+## English
 A1
 
