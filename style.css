@@ -8,6 +8,10 @@
     src: url("fonts/Montserrat-Bold.ttf");
 }
 
+html {
+    background-color: white;
+}
+
 body {
     margin: 0;
     font-family: Montserrat, sans-serif;
