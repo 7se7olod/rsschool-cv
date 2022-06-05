@@ -1,0 +1,76 @@
+@font-face {
+    font-family: Montserrat;
+    src: url("fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+    font-family: MontserratBold;
+    src: url("fonts/Montserrat-Bold.ttf");
+}
+
+html {
+    background-color: white;
+}
+
+body {
+    margin: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+h2 {
+    font-family: MontserratBold, sans-serif;
+    color: #105293;
+}
+
+#main-header {
+    background-color: #1ea9ff;
+}
+
+#header-image {
+    margin-left: 30px;
+}
+
+#main {
+    margin-top: 20px;
+}
+
+#main-container {
+    display: flex;
+    align-items: center;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+#main-description {
+    margin-left: 35px;
+}
+
+#main-description-title {
+    font-family: MontserratBold, sans-serif;
+    color: #105293;
+}
+
+#about, #skills, #code, #education, #english {
+    margin-left: 30px;
+}
+
+#about-text {
+    position: center;
+}
+
+#education-course-title {
+    font-family: MontserratBold, sans-serif;
+    color: #105293;
+}
+
+#footer {
+    background-color: #1ea9ff;
+    display: flex;
+    justify-content: center;
+}
+
+#footer-link {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
